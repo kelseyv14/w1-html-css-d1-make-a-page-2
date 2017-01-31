@@ -1,0 +1,17 @@
+body{
+    background: #ADDADF;
+    color:#fff;
+    text-align: center;
+}
+h2 {
+    text-align: left;
+}
+   h3 {
+   background-color: #B55400;}
+   h4{text-align: left;}
+   table, th, td {
+    border: 1px solid black;
+}
+h5{color:#B55400;
+text-align: center;}
+h6 {font-variant:small-caps; text-decoration:underline; font-size:18px;}
